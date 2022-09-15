@@ -41,7 +41,8 @@ HLT;
 
 ## Output:
 ### Loading AX and BX register with the Numbers whose Addition has to be found :
-  ![output](1.jpg)
+  ![output](![1](https://user-images.githubusercontent.com/94980741/190320893-0599b9d5-e67e-4d44-a13e-eebad697f8ac.jpg)
+)
   ![output](2.jpg)
   ![output](3.jpg)
 ### Performing 8-bit Addition using "ADD" instructions :

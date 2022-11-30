@@ -1,8 +1,8 @@
 # EXPERIMENT 01 ALP FOR 8086
 
 ```
-Name : Sudharshna Lakshmi S
-Roll no : 212221230110
+Name : Thirugnanamoorthi G
+Roll no : 212221230117
 Date of experiment : 09-09-2022
 ```
 
